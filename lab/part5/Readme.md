@@ -1,3 +1,4 @@
+# i2c_traffic
 We connect the circuit back to lab1, and the logic now is the LED would blink according to the sensor's sensing light. 
 So according to the I2C data sheet, the data is at the end of the protocal. 
 
