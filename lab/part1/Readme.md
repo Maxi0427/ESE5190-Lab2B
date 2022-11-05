@@ -1,4 +1,6 @@
 ## Code
+、、、
+
 #include "pico/stdlib.h"
 #include <stdio.h>
 #include "neopixel.h"
@@ -90,3 +92,5 @@ int main() {
     }
     return 0;
 }
+
+、、、
