@@ -8,7 +8,7 @@ So according to the I2C data sheet, the data is at the end of the protocal.
 When we change the light brightness, we got the following screenshot:
 
 The dark one
-![image](https://user-images.githubusercontent.com/58932929/200009237-5c28613a-5884-461e-acc0-b605a3142833.png)
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part5/Dark.jpeg)
 
 the more bright one
 
