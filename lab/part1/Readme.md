@@ -1,4 +1,6 @@
 # Registers
+## Function
+With the code below. The LED on the QTPy will flash red light when the BOOT button is pressed.
 ## Code
 ```
 
