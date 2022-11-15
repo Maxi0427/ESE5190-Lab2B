@@ -100,5 +100,7 @@ int main() {
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part1/Press_button.jpeg)
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part1/Screen_Press.png)
+When BOOT button is pressed.
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part1/Screen_notPress.png)
+When BOOT button is not pressed
 
