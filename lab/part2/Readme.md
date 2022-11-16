@@ -62,6 +62,5 @@ int main() {
 }      
 ```
 ## Function
-Record 10 seconds of button input to your RP2040.<br>
-Replay a recorded sequence on your NeoPixel.<br>
-Loop a recording.<br>
+1. Select any 32-bit address to read/write (even if not a valid RP2020 address).<br>
+2. Read/write any 32-bit value to this address.<br>
