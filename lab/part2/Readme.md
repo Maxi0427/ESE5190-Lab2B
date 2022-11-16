@@ -62,9 +62,11 @@ int main() {
 }      
 ```
 ## Function
-1. Select any 32-bit address to read/write (even if not a valid RP2020 address).<br>
-2. Read/write any 32-bit value to this address.<br>
+1. Input the address of a register.<br>
+1. Read and print the data in that register<br>
+2. Add 8 to that data.<br>
+3. Write the new data in the same register.<br>
+4. Read and print the data of that register again.<br>
 
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Read_Write.png)
-Read and write the register
