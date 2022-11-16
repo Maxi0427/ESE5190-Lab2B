@@ -66,3 +66,5 @@ int main() {
 2. Read/write any 32-bit value to this address.<br>
 
 ## Pictures
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Read_Write.png)
+Read and write the register
