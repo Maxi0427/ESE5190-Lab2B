@@ -106,4 +106,7 @@ int main() {
 2. Replay a recorded sequence on your NeoPixel.<br>
 3. Loop a recording.<br>
 
-## Pictures and GIF
+## Record
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part3/record.gif)
+## Replay
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part3/replay.gif)
