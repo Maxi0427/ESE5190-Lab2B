@@ -105,3 +105,5 @@ int main() {
 1. Record 10 seconds of button input to your RP2040 (in RAM).<br>
 2. Replay a recorded sequence on your NeoPixel.<br>
 3. Loop a recording.<br>
+
+## Pictures and GIF
