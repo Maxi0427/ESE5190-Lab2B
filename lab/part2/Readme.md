@@ -101,3 +101,7 @@ int main() {
     return 0;
 }
 ```
+## Function
+Record at a least a few seconds of button input to your RP2040.
+Replay a recorded sequence on your NeoPixel.
+Loop a recording.
