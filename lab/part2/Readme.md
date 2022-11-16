@@ -71,3 +71,4 @@ int main() {
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Read_Write.png)
 D00000060 is the only writable register.
+![image]https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Write_Register.png
