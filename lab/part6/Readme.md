@@ -6,5 +6,8 @@
 3. Recorded a trace of this exchange<br>
 
 ## Code
-
+### Lab 1 Python Code
+https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part6/part6.py
+### Part 6 Code
+https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part6/lab2_part6.py
 ## Pictures
