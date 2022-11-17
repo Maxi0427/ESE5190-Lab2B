@@ -9,6 +9,6 @@
 ## Code
 https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/lab2_part2.c
 ## Pictures
-![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Read_Write.png)
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Write_Register.png)
 D00000060 is a writable register.<br>
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/part2.png)
