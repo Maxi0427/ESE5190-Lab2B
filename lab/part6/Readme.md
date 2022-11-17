@@ -12,3 +12,4 @@ https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part6/part6.py
 https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part6/lab2_part6.c
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part6/part6.png)
+22 is the SDA line and 23 is the SCL line.<br>
