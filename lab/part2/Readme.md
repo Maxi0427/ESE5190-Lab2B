@@ -6,7 +6,8 @@
 3. It will return the value of that register.<br>
 4. If write mode selected, enter address to write.<br>
 5. Enter the value to write that register.<br>
-
+## Code
+https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/lab2_part2.c
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part2/Read_Write.png)
 D00000060 is the only writable register.<br>
